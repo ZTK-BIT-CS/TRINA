@@ -1,0 +1,96 @@
+This is BibTeX, Version 0.99e (TeX Live 2026)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main_origin.aux
+The style file: ACM-Reference-Format.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: reference_origin.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--empty publisher in chiang2019cluster
+Warning--empty address in chiang2019cluster
+Warning--empty publisher in dai2021nrgnn
+Warning--empty address in dai2021nrgnn
+Warning--empty publisher in dai2022towards
+Warning--empty address in dai2022towards
+Warning--empty address in ganin2015unsupervised
+Warning--page numbers missing in both pages and numpages fields in hamilton2017inductive
+Warning--empty publisher in hou2022graphmae
+Warning--empty address in hou2022graphmae
+Warning--empty publisher in huang2023robust
+Warning--empty address in huang2023robust
+Warning--empty publisher in huang2021multi
+Warning--empty address in huang2021multi
+Warning--empty publisher in jin2020graph
+Warning--empty address in jin2020graph
+Warning--empty publisher in jo2023robust
+Warning--empty address in jo2023robust
+Warning--empty publisher in kipf2016semi
+Warning--empty address in kipf2016semi
+Warning--page numbers missing in both pages and numpages fields in kipf2016semi
+Warning--empty publisher in li2022reliable
+Warning--empty address in li2022reliable
+Warning--empty address in li2023graphcleaner
+Warning--empty address in qian2024rlgnn
+Warning--empty publisher in qian2023robust
+Warning--empty address in qian2023robust
+Warning--empty address in song2023rge
+Warning--empty publisher in tian2022learning
+Warning--empty address in tian2022learning
+Warning--page numbers missing in both pages and numpages fields in tian2022learning
+Warning--empty address in wang2019semi
+Warning--empty publisher in yuan2023alex
+Warning--empty address in yuan2023alex
+Warning--empty address in yuan2023learning
+Warning--page numbers missing in both pages and numpages fields in zhang2018generalized
+Warning--empty publisher in zhu2024robust
+Warning--empty address in zhu2024robust
+Warning--empty publisher in zhuang2025refine
+Warning--empty address in zhuang2025refine
+You've used 45 entries,
+            6273 wiz_defined-function locations,
+            1918 strings with 29916 characters,
+and the built_in function-call counts, 55810 in all, are:
+= -- 6789
+> -- 2199
+< -- 0
++ -- 761
+- -- 728
+* -- 4216
+:= -- 5479
+add.period$ -- 215
+call.type$ -- 45
+change.case$ -- 417
+chr.to.int$ -- 41
+cite$ -- 85
+duplicate$ -- 4810
+empty$ -- 3365
+format.name$ -- 904
+if$ -- 13636
+int.to.chr$ -- 6
+int.to.str$ -- 1
+missing$ -- 169
+newline$ -- 405
+num.names$ -- 311
+pop$ -- 2044
+preamble$ -- 1
+purify$ -- 762
+quote$ -- 0
+skip$ -- 1806
+stack$ -- 0
+substring$ -- 3855
+swap$ -- 509
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1111
+warning$ -- 40
+while$ -- 213
+width$ -- 0
+write$ -- 887
+(There were 40 warnings)

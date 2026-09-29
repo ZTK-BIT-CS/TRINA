@@ -1,0 +1,405 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{45}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{} and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showURL}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showURL #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[Abbahaddou et~al\mbox{.}(2024)]%
+        {abbahaddou2024bounding}
+\bibfield{author}{\bibinfo{person}{Yassine Abbahaddou}, \bibinfo{person}{Sofiane Ennadir}, \bibinfo{person}{Johannes~F Lutzeyer}, \bibinfo{person}{Michalis Vazirgiannis}, {and} \bibinfo{person}{Henrik Bostr{\"o}m}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \bibinfo{title}{{Bounding the Expected Robustness of Graph Neural Networks Subject to Node Feature Attacks}}.
+\newblock
+\showeprint[arxiv]{2404.17947}
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2404.17947}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Chen et~al\mbox{.}(2025)]%
+        {chen2025l2m}
+\bibfield{author}{\bibinfo{person}{Haoran Chen}, \bibinfo{person}{Xianchen Zhou}, \bibinfo{person}{Jiwei Zhang}, {and} \bibinfo{person}{Hongxia Wang}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{{L2M-GCN: a New Framework for Learning Robust GCN against Structural Attacks}}.
+\newblock \bibinfo{journal}{\emph{Neurocomputing}}  \bibinfo{volume}{636} (\bibinfo{year}{2025}), \bibinfo{pages}{129962}.
+\newblock
+
+
+\bibitem[Chiang et~al\mbox{.}(2019)]%
+        {chiang2019cluster}
+\bibfield{author}{\bibinfo{person}{Wei-Lin Chiang}, \bibinfo{person}{Xuanqing Liu}, \bibinfo{person}{Si Si}, \bibinfo{person}{Yang Li}, \bibinfo{person}{Samy Bengio}, {and} \bibinfo{person}{Cho-Jui Hsieh}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{{Cluster-{GCN}: an Efficient Algorithm for Training Deep and Large Graph Convolutional Networks}}. In \bibinfo{booktitle}{\emph{Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining}}. \bibinfo{pages}{257--266}.
+\newblock
+
+
+\bibitem[Dai et~al\mbox{.}(2021)]%
+        {dai2021nrgnn}
+\bibfield{author}{\bibinfo{person}{Enyan Dai}, \bibinfo{person}{Charu Aggarwal}, {and} \bibinfo{person}{Suhang Wang}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{{NRGNN: Learning a Label Noise Resistant Graph Neural Network on Sparsely and Noisily Labeled Graphs}}. In \bibinfo{booktitle}{\emph{Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery \& Data Mining}}. \bibinfo{pages}{227--236}.
+\newblock
+
+
+\bibitem[Dai et~al\mbox{.}(2022)]%
+        {dai2022towards}
+\bibfield{author}{\bibinfo{person}{Enyan Dai}, \bibinfo{person}{Wei Jin}, \bibinfo{person}{Hui Liu}, {and} \bibinfo{person}{Suhang Wang}.} \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{{Towards Robust Graph Neural Networks for Noisy Graphs with Sparse Labels}}. In \bibinfo{booktitle}{\emph{Proceedings of the Fifteenth ACM International Conference on Web Search and Data Mining}}. \bibinfo{pages}{181--191}.
+\newblock
+
+
+\bibitem[Ganin and Lempitsky(2015)]%
+        {ganin2015unsupervised}
+\bibfield{author}{\bibinfo{person}{Yaroslav Ganin} {and} \bibinfo{person}{Victor Lempitsky}.} \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{{Unsupervised Domain Adaptation by Backpropagation}}. In \bibinfo{booktitle}{\emph{International Conference on Machine Learning}}. \bibinfo{publisher}{PMLR}, \bibinfo{pages}{1180--1189}.
+\newblock
+
+
+\bibitem[Guo et~al\mbox{.}(2024)]%
+        {guo2024graphedit}
+\bibfield{author}{\bibinfo{person}{Zirui Guo}, \bibinfo{person}{Lianghao Xia}, \bibinfo{person}{Yanhua Yu}, \bibinfo{person}{Yuling Wang}, \bibinfo{person}{Zixuan Yang}, \bibinfo{person}{Wei Wei}, \bibinfo{person}{Liang Pang}, \bibinfo{person}{Tat-Seng Chua}, {and} \bibinfo{person}{Chao Huang}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \bibinfo{title}{{GraphEdit: Large Language Models for Graph Structure Learning}}.
+\newblock
+\showeprint[arxiv]{2402.15183}
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2402.15183}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Hamilton et~al\mbox{.}(2017)]%
+        {hamilton2017inductive}
+\bibfield{author}{\bibinfo{person}{Will Hamilton}, \bibinfo{person}{Zhitao Ying}, {and} \bibinfo{person}{Jure Leskovec}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{{Inductive Representation Learning on Large Graphs}}.
+\newblock \bibinfo{journal}{\emph{Advances in Neural Information Processing Systems}}  \bibinfo{volume}{30} (\bibinfo{year}{2017}).
+\newblock
+
+
+\bibitem[Hou et~al\mbox{.}(2022)]%
+        {hou2022graphmae}
+\bibfield{author}{\bibinfo{person}{Zhenyu Hou}, \bibinfo{person}{Xiao Liu}, \bibinfo{person}{Yukuo Cen}, \bibinfo{person}{Yuxiao Dong}, \bibinfo{person}{Hongxia Yang}, \bibinfo{person}{Chunjie Wang}, {and} \bibinfo{person}{Jie Tang}.} \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{{GraphMAE: Self-supervised Masked Graph Autoencoders}}. In \bibinfo{booktitle}{\emph{Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining}}. \bibinfo{pages}{594--604}.
+\newblock
+
+
+\bibitem[Hu et~al\mbox{.}(2021)]%
+        {hu2021ogb}
+\bibfield{author}{\bibinfo{person}{Weihua Hu}, \bibinfo{person}{Matthias Fey}, \bibinfo{person}{Marinka Zitnik}, \bibinfo{person}{Yuxiao Dong}, \bibinfo{person}{Hongyu Ren}, \bibinfo{person}{Bowen Liu}, \bibinfo{person}{Michele Catasta}, {and} \bibinfo{person}{Jure Leskovec}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \bibinfo{title}{{Open Graph Benchmark: Datasets for Machine Learning on Graphs}}.
+\newblock
+\showeprint[arxiv]{2005.00687}~[cs.LG]
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2005.00687}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Huang et~al\mbox{.}(2023)]%
+        {huang2023robust}
+\bibfield{author}{\bibinfo{person}{Jincheng Huang}, \bibinfo{person}{Lun Du}, \bibinfo{person}{Xu Chen}, \bibinfo{person}{Qiang Fu}, \bibinfo{person}{Shi Han}, {and} \bibinfo{person}{Dongmei Zhang}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{{Robust Mid-pass Filtering Graph Convolutional Networks}}. In \bibinfo{booktitle}{\emph{Proceedings of the ACM Web Conference 2023}}. \bibinfo{pages}{328--338}.
+\newblock
+
+
+\bibitem[Huang et~al\mbox{.}(2021)]%
+        {huang2021multi}
+\bibfield{author}{\bibinfo{person}{Yao-Hui Huang}, \bibinfo{person}{Jun-Wei Hsieh}, \bibinfo{person}{Ming-Ching Chang}, \bibinfo{person}{Lipeng Ke}, \bibinfo{person}{Siwei Lyu}, {and} \bibinfo{person}{Arpita~Samanta Santra}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{{Multi-Teacher Single-Student Visual Transformer with Multi-Level Attention for Face Spoofing Detection.}}. In \bibinfo{booktitle}{\emph{BMVC}}. \bibinfo{pages}{125}.
+\newblock
+
+
+\bibitem[In et~al\mbox{.}(2024)]%
+        {in2024noise}
+\bibfield{author}{\bibinfo{person}{Yeonjun In}, \bibinfo{person}{Kanghoon Yoon}, \bibinfo{person}{Kibum Kim}, \bibinfo{person}{Sungchul Kim}, {and} \bibinfo{person}{Chanyoung Park}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \bibinfo{title}{{Noise Robust Graph Learning under Feature-Dependent Graph-Noise}}.
+\newblock
+
+
+\bibitem[Jin et~al\mbox{.}(2020)]%
+        {jin2020graph}
+\bibfield{author}{\bibinfo{person}{Wei Jin}, \bibinfo{person}{Yao Ma}, \bibinfo{person}{Xiaorui Liu}, \bibinfo{person}{Xianfeng Tang}, \bibinfo{person}{Suhang Wang}, {and} \bibinfo{person}{Jiliang Tang}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{{Graph Structure Learning for Robust Graph Neural Networks}}. In \bibinfo{booktitle}{\emph{Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining}}. \bibinfo{pages}{66--74}.
+\newblock
+
+
+\bibitem[Jin et~al\mbox{.}(2022)]%
+        {jin2022empowering}
+\bibfield{author}{\bibinfo{person}{Wei Jin}, \bibinfo{person}{Tong Zhao}, \bibinfo{person}{Jiayuan Ding}, \bibinfo{person}{Yozen Liu}, \bibinfo{person}{Jiliang Tang}, {and} \bibinfo{person}{Neil Shah}.} \bibinfo{year}{2022}\natexlab{}.
+\newblock \bibinfo{title}{{Empowering Graph Representation Learning with Test-time Graph Transformation}}.
+\newblock
+\showeprint[arxiv]{2210.03561}
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2210.03561}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Jo et~al\mbox{.}(2023)]%
+        {jo2023robust}
+\bibfield{author}{\bibinfo{person}{Hyeonsoo Jo}, \bibinfo{person}{Fanchen Bu}, {and} \bibinfo{person}{Kijung Shin}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{{Robust Graph Clustering via Meta Weighting for Noisy Graphs}}. In \bibinfo{booktitle}{\emph{Proceedings of the 32nd ACM International Conference on Information and Knowledge Management}}. \bibinfo{pages}{1035--1044}.
+\newblock
+
+
+\bibitem[Johnson et~al\mbox{.}(2019)]%
+        {johnson2019billion}
+\bibfield{author}{\bibinfo{person}{Jeff Johnson}, \bibinfo{person}{Matthijs Douze}, {and} \bibinfo{person}{Herv{\'e} J{\'e}gou}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{{Billion-scale Similarity Search with {GPUs}}}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Big Data}} \bibinfo{volume}{7}, \bibinfo{number}{3} (\bibinfo{year}{2019}), \bibinfo{pages}{535--547}.
+\newblock
+
+
+\bibitem[Karypis and Kumar(1998)]%
+        {karypis1998fast}
+\bibfield{author}{\bibinfo{person}{George Karypis} {and} \bibinfo{person}{Vipin Kumar}.} \bibinfo{year}{1998}\natexlab{}.
+\newblock \showarticletitle{{A Fast and High Quality Multilevel Scheme for Partitioning Irregular Graphs}}.
+\newblock \bibinfo{journal}{\emph{SIAM Journal on Scientific Computing}} \bibinfo{volume}{20}, \bibinfo{number}{1} (\bibinfo{year}{1998}), \bibinfo{pages}{359--392}.
+\newblock
+
+
+\bibitem[Kipf and Welling(2017)]%
+        {kipf2016semi}
+\bibfield{author}{\bibinfo{person}{Thomas~N. Kipf} {and} \bibinfo{person}{Max Welling}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{{Semi-Supervised Classification with Graph Convolutional Networks}}. In \bibinfo{booktitle}{\emph{International Conference on Learning Representations {(ICLR)}}}.
+\newblock
+
+
+\bibitem[Lei et~al\mbox{.}(2022)]%
+        {lei2022evennet}
+\bibfield{author}{\bibinfo{person}{Runlin Lei}, \bibinfo{person}{Zhen Wang}, \bibinfo{person}{Yaliang Li}, \bibinfo{person}{Bolin Ding}, {and} \bibinfo{person}{Zhewei Wei}.} \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{{EvenNet: Ignoring Odd-hop Neighbors Improves Robustness of Graph Neural Networks}}.
+\newblock \bibinfo{journal}{\emph{Advances in Neural Information Processing Systems}}  \bibinfo{volume}{35} (\bibinfo{year}{2022}), \bibinfo{pages}{4694--4706}.
+\newblock
+
+
+\bibitem[Li et~al\mbox{.}(2022a)]%
+        {li2022reliable}
+\bibfield{author}{\bibinfo{person}{Kuan Li}, \bibinfo{person}{Yang Liu}, \bibinfo{person}{Xiang Ao}, \bibinfo{person}{Jianfeng Chi}, \bibinfo{person}{Jinghua Feng}, \bibinfo{person}{Hao Yang}, {and} \bibinfo{person}{Qing He}.} \bibinfo{year}{2022}\natexlab{a}.
+\newblock \showarticletitle{{Reliable Representations Make a Stronger Defender: Unsupervised Structure Refinement for Robust Gnn}}. In \bibinfo{booktitle}{\emph{Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining}}. \bibinfo{pages}{925--935}.
+\newblock
+
+
+\bibitem[Li et~al\mbox{.}(2022b)]%
+        {li2022learning}
+\bibfield{author}{\bibinfo{person}{Wenjing Li}, \bibinfo{person}{Jing Wang}, \bibinfo{person}{Tingting Ren}, \bibinfo{person}{Fang Li}, \bibinfo{person}{Jun Zhang}, {and} \bibinfo{person}{Zhongcheng Wu}.} \bibinfo{year}{2022}\natexlab{b}.
+\newblock \showarticletitle{{Learning Accurate, Speedy, Lightweight CNNs via Instance-specific Multi-teacher Knowledge Distillation for Distracted Driver Posture Identification}}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Intelligent Transportation Systems}} \bibinfo{volume}{23}, \bibinfo{number}{10} (\bibinfo{year}{2022}), \bibinfo{pages}{17922--17935}.
+\newblock
+
+
+\bibitem[Li et~al\mbox{.}(2024)]%
+        {li2024contrastive}
+\bibfield{author}{\bibinfo{person}{Xianxian Li}, \bibinfo{person}{Qiyu Li}, \bibinfo{person}{Haodong Qian}, \bibinfo{person}{Jinyan Wang}, {et~al\mbox{.}}} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{{Contrastive Learning of Graphs under Label Noise}}.
+\newblock \bibinfo{journal}{\emph{Neural Networks}}  \bibinfo{volume}{172} (\bibinfo{year}{2024}), \bibinfo{pages}{106113}.
+\newblock
+
+
+\bibitem[Li et~al\mbox{.}(2023)]%
+        {li2023graphcleaner}
+\bibfield{author}{\bibinfo{person}{Yuwen Li}, \bibinfo{person}{Miao Xiong}, {and} \bibinfo{person}{Bryan Hooi}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{{Graphcleaner: Detecting Mislabelled Samples in Popular Graph Learning Benchmarks}}. In \bibinfo{booktitle}{\emph{International Conference on Machine Learning}}. \bibinfo{publisher}{PMLR}, \bibinfo{pages}{20195--20209}.
+\newblock
+
+
+\bibitem[Liu et~al\mbox{.}(2021)]%
+        {liu2021graph}
+\bibfield{author}{\bibinfo{person}{Xiaorui Liu}, \bibinfo{person}{Jiayuan Ding}, \bibinfo{person}{Wei Jin}, \bibinfo{person}{Han Xu}, \bibinfo{person}{Yao Ma}, \bibinfo{person}{Zitao Liu}, {and} \bibinfo{person}{Jiliang Tang}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{{Graph Neural Networks with Adaptive Residual}}.
+\newblock \bibinfo{journal}{\emph{Advances in Neural Information Processing Systems}}  \bibinfo{volume}{34} (\bibinfo{year}{2021}), \bibinfo{pages}{9720--9733}.
+\newblock
+
+
+\bibitem[Lu et~al\mbox{.}(2024)]%
+        {lu2024noise}
+\bibfield{author}{\bibinfo{person}{Zhengyu Lu}, \bibinfo{person}{Junbo Ma}, \bibinfo{person}{Zongqian Wu}, \bibinfo{person}{Bo Zhou}, {and} \bibinfo{person}{Xiaofeng Zhu}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{{A Noise-resistant Graph Neural Network by Semi-supervised Contrastive Learning}}.
+\newblock \bibinfo{journal}{\emph{Information Sciences}}  \bibinfo{volume}{658} (\bibinfo{year}{2024}), \bibinfo{pages}{120001}.
+\newblock
+
+
+\bibitem[Qian et~al\mbox{.}(2024)]%
+        {qian2024rlgnn}
+\bibfield{author}{\bibinfo{person}{Haodong Qian}, \bibinfo{person}{Qiyu Li}, \bibinfo{person}{Jinyan Wang}, {et~al\mbox{.}}} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{{RLGNN: Robust Graph Neural Networks with Noisy Label Learning}}. In \bibinfo{booktitle}{\emph{2024 IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA)}}. \bibinfo{publisher}{IEEE}, \bibinfo{pages}{1879--1886}.
+\newblock
+
+
+\bibitem[Qian et~al\mbox{.}(2023)]%
+        {qian2023robust}
+\bibfield{author}{\bibinfo{person}{Siyi Qian}, \bibinfo{person}{Haochao Ying}, \bibinfo{person}{Renjun Hu}, \bibinfo{person}{Jingbo Zhou}, \bibinfo{person}{Jintai Chen}, \bibinfo{person}{Danny~Z Chen}, {and} \bibinfo{person}{Jian Wu}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{{Robust Training of Graph Neural Networks via Noise Governance}}. In \bibinfo{booktitle}{\emph{Proceedings of the Sixteenth ACM International Conference on Web Search and Data Mining}}. \bibinfo{pages}{607--615}.
+\newblock
+
+
+\bibitem[Sen et~al\mbox{.}(2008)]%
+        {sen2008collective}
+\bibfield{author}{\bibinfo{person}{Prithviraj Sen}, \bibinfo{person}{Galileo Namata}, \bibinfo{person}{Mustafa Bilgic}, \bibinfo{person}{Lise Getoor}, \bibinfo{person}{Brian Galligher}, {and} \bibinfo{person}{Tina Eliassi-Rad}.} \bibinfo{year}{2008}\natexlab{}.
+\newblock \showarticletitle{{Collective Classification in Network Data}}.
+\newblock \bibinfo{journal}{\emph{AI Magazine}} \bibinfo{volume}{29}, \bibinfo{number}{3} (\bibinfo{year}{2008}), \bibinfo{pages}{93--93}.
+\newblock
+
+
+\bibitem[Shchur et~al\mbox{.}(2018)]%
+        {shchur2018pitfalls}
+\bibfield{author}{\bibinfo{person}{Oleksandr Shchur}, \bibinfo{person}{Maximilian Mumme}, \bibinfo{person}{Aleksandar Bojchevski}, {and} \bibinfo{person}{Stephan G{\"u}nnemann}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \bibinfo{title}{{Pitfalls of Graph Neural Network Evaluation}}.
+\newblock
+\showeprint[arxiv]{1811.05868}
+\urldef\tempurl%
+\url{https://arxiv.org/abs/1811.05868}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Song et~al\mbox{.}(2023)]%
+        {song2023rge}
+\bibfield{author}{\bibinfo{person}{Jaeyun Song}, \bibinfo{person}{SungYub Kim}, {and} \bibinfo{person}{Eunho Yang}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{{RGE: a Repulsive Graph Rectification for Node Classification via Influence}}. In \bibinfo{booktitle}{\emph{International Conference on Machine Learning}}. \bibinfo{publisher}{PMLR}, \bibinfo{pages}{32331--32348}.
+\newblock
+
+
+\bibitem[Tian et~al\mbox{.}(2022)]%
+        {tian2022learning}
+\bibfield{author}{\bibinfo{person}{Yijun Tian}, \bibinfo{person}{Chuxu Zhang}, \bibinfo{person}{Zhichun Guo}, \bibinfo{person}{Xiangliang Zhang}, {and} \bibinfo{person}{Nitesh Chawla}.} \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{{Learning Mlps on Graphs: a Unified View of Effectiveness, Robustness, and Efficiency}}. In \bibinfo{booktitle}{\emph{The Eleventh International Conference on Learning Representations}}.
+\newblock
+
+
+\bibitem[Wang et~al\mbox{.}(2019)]%
+        {wang2019semi}
+\bibfield{author}{\bibinfo{person}{Daixin Wang}, \bibinfo{person}{Jianbin Lin}, \bibinfo{person}{Peng Cui}, \bibinfo{person}{Quanhui Jia}, \bibinfo{person}{Zhen Wang}, \bibinfo{person}{Yanming Fang}, \bibinfo{person}{Quan Yu}, \bibinfo{person}{Jun Zhou}, \bibinfo{person}{Shuang Yang}, {and} \bibinfo{person}{Yuan Qi}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{{A Semi-supervised Graph Attentive Network for Financial Fraud Detection}}. In \bibinfo{booktitle}{\emph{2019 IEEE International Conference on Data Mining (ICDM)}}. \bibinfo{publisher}{IEEE}, \bibinfo{pages}{598--607}.
+\newblock
+
+
+\bibitem[Wu et~al\mbox{.}(2020b)]%
+        {wu2020graph}
+\bibfield{author}{\bibinfo{person}{Tailin Wu}, \bibinfo{person}{Hongyu Ren}, \bibinfo{person}{Pan Li}, {and} \bibinfo{person}{Jure Leskovec}.} \bibinfo{year}{2020}\natexlab{b}.
+\newblock \showarticletitle{{Graph Information Bottleneck}}.
+\newblock \bibinfo{journal}{\emph{Advances in Neural Information Processing Systems}}  \bibinfo{volume}{33} (\bibinfo{year}{2020}), \bibinfo{pages}{20437--20448}.
+\newblock
+
+
+\bibitem[Wu et~al\mbox{.}(2024)]%
+        {wu2024mitigating}
+\bibfield{author}{\bibinfo{person}{Yuhao Wu}, \bibinfo{person}{Jiangchao Yao}, \bibinfo{person}{Xiaobo Xia}, \bibinfo{person}{Jun Yu}, \bibinfo{person}{Ruxin Wang}, \bibinfo{person}{Bo Han}, {and} \bibinfo{person}{Tongliang Liu}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \bibinfo{title}{{Mitigating Label Noise on Graph via Topological Sample Selection}}.
+\newblock
+\showeprint[arxiv]{2403.01942}
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2403.01942}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Wu et~al\mbox{.}(2020a)]%
+        {wu2020comprehensive}
+\bibfield{author}{\bibinfo{person}{Zonghan Wu}, \bibinfo{person}{Shirui Pan}, \bibinfo{person}{Fengwen Chen}, \bibinfo{person}{Guodong Long}, \bibinfo{person}{Chengqi Zhang}, {and} \bibinfo{person}{Philip~S Yu}.} \bibinfo{year}{2020}\natexlab{a}.
+\newblock \showarticletitle{{A Comprehensive Survey on Graph Neural Networks}}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Neural Networks and Learning Systems}} \bibinfo{volume}{32}, \bibinfo{number}{1} (\bibinfo{year}{2020}), \bibinfo{pages}{4--24}.
+\newblock
+
+
+\bibitem[Yin et~al\mbox{.}(2024)]%
+        {yin2024sport}
+\bibfield{author}{\bibinfo{person}{Nan Yin}, \bibinfo{person}{Li Shen}, \bibinfo{person}{Chong Chen}, \bibinfo{person}{Xian-Sheng Hua}, {and} \bibinfo{person}{Xiao Luo}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{{SPORT: a Subgraph Perspective on Graph Classification with Label Noise}}.
+\newblock \bibinfo{journal}{\emph{ACM Transactions on Knowledge Discovery from Data}} \bibinfo{volume}{18}, \bibinfo{number}{9} (\bibinfo{year}{2024}), \bibinfo{pages}{1--20}.
+\newblock
+
+
+\bibitem[Yu et~al\mbox{.}(2017)]%
+        {yu2017spatio}
+\bibfield{author}{\bibinfo{person}{Bing Yu}, \bibinfo{person}{Haoteng Yin}, {and} \bibinfo{person}{Zhanxing Zhu}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \bibinfo{title}{{Spatio-temporal Graph Convolutional Networks: a Deep Learning Framework for Traffic Forecasting}}.
+\newblock
+\showeprint[arxiv]{1709.04875}
+\urldef\tempurl%
+\url{https://arxiv.org/abs/1709.04875}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Yuan et~al\mbox{.}(2023a)]%
+        {yuan2023alex}
+\bibfield{author}{\bibinfo{person}{Jingyang Yuan}, \bibinfo{person}{Xiao Luo}, \bibinfo{person}{Yifang Qin}, \bibinfo{person}{Zhengyang Mao}, \bibinfo{person}{Wei Ju}, {and} \bibinfo{person}{Ming Zhang}.} \bibinfo{year}{2023}\natexlab{a}.
+\newblock \showarticletitle{{ALEX: Towards Effective Graph Transfer Learning with Noisy Labels}}. In \bibinfo{booktitle}{\emph{Proceedings of the 31st ACM International Conference on Multimedia}}. \bibinfo{pages}{3647--3656}.
+\newblock
+
+
+\bibitem[Yuan et~al\mbox{.}(2023b)]%
+        {yuan2023learning}
+\bibfield{author}{\bibinfo{person}{Jingyang Yuan}, \bibinfo{person}{Xiao Luo}, \bibinfo{person}{Yifang Qin}, \bibinfo{person}{Yusheng Zhao}, \bibinfo{person}{Wei Ju}, {and} \bibinfo{person}{Ming Zhang}.} \bibinfo{year}{2023}\natexlab{b}.
+\newblock \showarticletitle{{Learning on Graphs under Label Noise}}. In \bibinfo{booktitle}{\emph{ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}}. \bibinfo{publisher}{IEEE}, \bibinfo{pages}{1--5}.
+\newblock
+
+
+\bibitem[Yuan et~al\mbox{.}(2023c)]%
+        {yuan2023self}
+\bibfield{author}{\bibinfo{person}{Jinliang Yuan}, \bibinfo{person}{Hualei Yu}, \bibinfo{person}{Meng Cao}, \bibinfo{person}{Jianqing Song}, \bibinfo{person}{Junyuan Xie}, {and} \bibinfo{person}{Chongjun Wang}.} \bibinfo{year}{2023}\natexlab{c}.
+\newblock \showarticletitle{{Self-supervised Robust Graph Neural Networks against Noisy Graphs and Noisy Labels}}.
+\newblock \bibinfo{journal}{\emph{Applied Intelligence}} \bibinfo{volume}{53}, \bibinfo{number}{21} (\bibinfo{year}{2023}), \bibinfo{pages}{25154--25170}.
+\newblock
+
+
+\bibitem[Zhang and Sabuncu(2018)]%
+        {zhang2018generalized}
+\bibfield{author}{\bibinfo{person}{Zhilu Zhang} {and} \bibinfo{person}{Mert Sabuncu}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{{Generalized Cross Entropy Loss for Training Deep Neural Networks with Noisy Labels}}.
+\newblock \bibinfo{journal}{\emph{Advances in Neural Information Processing Systems}}  \bibinfo{volume}{31} (\bibinfo{year}{2018}).
+\newblock
+
+
+\bibitem[Zhou et~al\mbox{.}(2023)]%
+        {zhou2023combating}
+\bibfield{author}{\bibinfo{person}{Zhanke Zhou}, \bibinfo{person}{Jiangchao Yao}, \bibinfo{person}{Jiaxu Liu}, \bibinfo{person}{Xiawei Guo}, \bibinfo{person}{Quanming Yao}, \bibinfo{person}{Li He}, \bibinfo{person}{Liang Wang}, \bibinfo{person}{Bo Zheng}, {and} \bibinfo{person}{Bo Han}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{{Combating Bilateral Edge Noise for Robust Link Prediction}}.
+\newblock \bibinfo{journal}{\emph{Advances in Neural Information Processing Systems}}  \bibinfo{volume}{36} (\bibinfo{year}{2023}), \bibinfo{pages}{21368--21414}.
+\newblock
+
+
+\bibitem[Zhu et~al\mbox{.}(2024)]%
+        {zhu2024robust}
+\bibfield{author}{\bibinfo{person}{Yonghua Zhu}, \bibinfo{person}{Lei Feng}, \bibinfo{person}{Zhenyun Deng}, \bibinfo{person}{Yang Chen}, \bibinfo{person}{Robert Amor}, {and} \bibinfo{person}{Michael Witbrock}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{{Robust Node Classification on Graph Data with Graph and Label Noise}}. In \bibinfo{booktitle}{\emph{Proceedings of the AAAI Conference on Artificial Intelligence}}, Vol.~\bibinfo{volume}{38}. \bibinfo{pages}{17220--17227}.
+\newblock
+
+
+\bibitem[Zhuang et~al\mbox{.}(2025)]%
+        {zhuang2025refine}
+\bibfield{author}{\bibinfo{person}{Shuman Zhuang}, \bibinfo{person}{Zhihao Wu}, \bibinfo{person}{Zhaoliang Chen}, \bibinfo{person}{Hong-Ning Dai}, {and} \bibinfo{person}{Ximeng Liu}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{{Refine Then Classify: Robust Graph Neural Networks with Reliable Neighborhood Contrastive Refinement}}. In \bibinfo{booktitle}{\emph{Proceedings of the AAAI Conference on Artificial Intelligence}}, Vol.~\bibinfo{volume}{39}. \bibinfo{pages}{13473--13482}.
+\newblock
+
+
+\end{thebibliography}
