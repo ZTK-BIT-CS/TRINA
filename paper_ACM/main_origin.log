@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.5.6)  29 SEP 2026 20:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.5.6)  12 OCT 2026 21:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1018,56 +1018,50 @@ LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 8.0pt on input line 625.
 LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/b/n' will be
 (Font)              scaled to size 8.0pt on input line 625.
-[7.7]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-<Figures/Cora_K_performance.png, id=458, 361.35pt x 289.08pt>
+[7.7] [8.8{d:/texlive/2026/texmf-dist/fonts/enc/dvips/libertine/lbtn_7f4ce4.enc}]
+<Figures/Cora_K_performance.png, id=463, 361.35pt x 289.08pt>
 File: Figures/Cora_K_performance.png Graphic file (type png)
 <use Figures/Cora_K_performance.png>
-Package pdftex.def Info: Figures/Cora_K_performance.png  used on input line 746.
+Package pdftex.def Info: Figures/Cora_K_performance.png  used on input line 745.
 (pdftex.def)             Requested size: 116.44568pt x 93.1559pt.
-<Figures/Pubmed_K_performance.png, id=460, 361.35pt x 289.08pt>
+<Figures/Pubmed_K_performance.png, id=465, 361.35pt x 289.08pt>
 File: Figures/Pubmed_K_performance.png Graphic file (type png)
 <use Figures/Pubmed_K_performance.png>
-Package pdftex.def Info: Figures/Pubmed_K_performance.png  used on input line 751.
+Package pdftex.def Info: Figures/Pubmed_K_performance.png  used on input line 750.
 (pdftex.def)             Requested size: 116.44568pt x 93.1559pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [8.8{d:/texlive/2026/texmf-dist/fonts/enc/dvips/libertine/lbtn_7f4ce4.enc}]
-<Figures/Cora_lambda_performance.png, id=467, 361.35pt x 289.08pt>
+<Figures/Cora_lambda_performance.png, id=466, 361.35pt x 289.08pt>
 File: Figures/Cora_lambda_performance.png Graphic file (type png)
 <use Figures/Cora_lambda_performance.png>
-Package pdftex.def Info: Figures/Cora_lambda_performance.png  used on input line 762.
+Package pdftex.def Info: Figures/Cora_lambda_performance.png  used on input line 761.
 (pdftex.def)             Requested size: 116.44568pt x 93.1559pt.
-<Figures/Pubmed_lambda_performance.png, id=468, 361.35pt x 289.08pt>
+<Figures/Pubmed_lambda_performance.png, id=467, 361.35pt x 289.08pt>
 File: Figures/Pubmed_lambda_performance.png Graphic file (type png)
 <use Figures/Pubmed_lambda_performance.png>
-Package pdftex.def Info: Figures/Pubmed_lambda_performance.png  used on input line 767.
+Package pdftex.def Info: Figures/Pubmed_lambda_performance.png  used on input line 766.
 (pdftex.def)             Requested size: 116.44568pt x 93.1559pt.
-<Figures/Cora_teacher_n_performance.png, id=469, 361.35pt x 289.08pt>
+<Figures/Cora_teacher_n_performance.png, id=468, 361.35pt x 289.08pt>
 File: Figures/Cora_teacher_n_performance.png Graphic file (type png)
 <use Figures/Cora_teacher_n_performance.png>
-Package pdftex.def Info: Figures/Cora_teacher_n_performance.png  used on input line 778.
+Package pdftex.def Info: Figures/Cora_teacher_n_performance.png  used on input line 777.
 (pdftex.def)             Requested size: 116.44568pt x 93.1559pt.
-<Figures/Pubmed_teacher_n_performance.png, id=470, 361.35pt x 289.08pt>
+<Figures/Pubmed_teacher_n_performance.png, id=469, 361.35pt x 289.08pt>
 File: Figures/Pubmed_teacher_n_performance.png Graphic file (type png)
 <use Figures/Pubmed_teacher_n_performance.png>
-Package pdftex.def Info: Figures/Pubmed_teacher_n_performance.png  used on input line 783.
+Package pdftex.def Info: Figures/Pubmed_teacher_n_performance.png  used on input line 782.
 (pdftex.def)             Requested size: 116.44568pt x 93.1559pt.
-<Figures/inference_time_comparison.png, id=472, 867.24pt x 578.16pt>
+<Figures/inference_time_comparison.png, id=471, 757.8714pt x 439.8834pt>
 File: Figures/inference_time_comparison.png Graphic file (type png)
 <use Figures/inference_time_comparison.png>
-Package pdftex.def Info: Figures/inference_time_comparison.png  used on input line 796.
-(pdftex.def)             Requested size: 217.03127pt x 144.68079pt.
-
-Underfull \vbox (badness 2035) has occurred while \output is active []
-
- [9.9 <./Figures/Cora_K_performance.png> <./Figures/Pubmed_K_performance.png> <./Figures/Cora_lambda_performance.png> <./Figures/Pubmed_lambda_performance.png> <./Figures/Cora_teacher_n_performance.png> <./Figures/Pubmed_teacher_n_performance.png>] Excluding 'acks' comment. (./main_origin.bbl
+Package pdftex.def Info: Figures/inference_time_comparison.png  used on input line 795.
+(pdftex.def)             Requested size: 217.03127pt x 125.96544pt.
+ [9.9 <./Figures/Cora_K_performance.png> <./Figures/Pubmed_K_performance.png> <./Figures/Cora_lambda_performance.png> <./Figures/Pubmed_lambda_performance.png> <./Figures/Cora_teacher_n_performance.png> <./Figures/Pubmed_teacher_n_performance.png> <./Figures/inference_time_comparison.png>] Excluding 'acks' comment. (./main_origin.bbl
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/sb/n' will be
 (Font)              scaled to size 7.3pt on input line 48.
 LaTeX Info: Redefining \tempurl on input line 94.
 LaTeX Info: Redefining \tempurl on input line 121.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 LaTeX Info: Redefining \tempurl on input line 161.
 LaTeX Info: Redefining \tempurl on input line 279.
 
@@ -1075,11 +1069,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 274--282
 []\T1/LinuxLibertineT-TLF/m/n/7 (+20) Oleksandr Shchur, Max-i-m-il-ian Mumme, Alek-san-dar Bo-jchevski, and
  []
 
-[10.10 <./Figures/inference_time_comparison.png>]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10.10]
 LaTeX Info: Redefining \tempurl on input line 320.
 LaTeX Info: Redefining \tempurl on input line 348.
 )
-Underfull \vbox (badness 1681) has occurred while \output is active []
+Underfull \vbox (badness 3049) has occurred while \output is active []
 
 
 
@@ -1101,13 +1098,13 @@ Package rerunfilecheck Info: File `main_origin.out' has not changed.
 Here is how much of TeX's memory you used:
  22123 strings out of 469462
  362294 string characters out of 5468725
- 867006 words of memory out of 5000000
+ 869882 words of memory out of 5000000
  49413 multiletter control sequences out of 15000+600000
  847579 words of font info for 570 fonts, out of 8000000 for 9000
  197 hyphenation exceptions out of 8191
- 90i,17n,131p,1394b,865s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 90i,17n,131p,1394b,861s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <d:/texlive/2026/texmf-dist/fonts/type1/public/newtx/LibertineMathMI.pfb><d:/texlive/2026/texmf-dist/fonts/type1/public/newtx/LibertineMathMI5.pfb><d:/texlive/2026/texmf-dist/fonts/type1/public/newtx/LibertineMathMI7.pfb><d:/texlive/2026/texmf-dist/fonts/type1/public/newtx/LibertineMathRM.pfb><d:/texlive/2026/texmf-dist/fonts/type1/public/libertine/LinBiolinumT.pfb><d:/texlive/2026/texmf-dist/fonts/type1/public/libertine/LinBiolinumTB.pfb><d:/texlive/2026/texmf-dist/fonts/type1/public/libertine/LinBiolinumTI.pfb><d:/texlive/2026/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb><d:/texlive/2026/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb><d:/texlive/2026/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb><d:/texlive/2026/texmf-dist/fonts/type1/public/libertine/LinLibertineTZ.pfb><d:/texlive/2026/texmf-dist/fonts/type1/public/newtx/NewTXMI.pfb><d:/texlive/2026/texmf-dist/fonts/type1/public/newtx/NewTXMI7.pfb><d:/texlive/2026/texmf-dist/fonts/type1/public/newtx/txexs.pfb><d:/texlive/2026/texmf-dist/fonts/type1/public/newtx/txmiaX.pfb><d:/texlive/2026/texmf-dist/fonts/type1/public/newtx/txsym.pfb><d:/texlive/2026/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
-Output written on main_origin.pdf (13 pages, 1708449 bytes).
+Output written on main_origin.pdf (13 pages, 1680517 bytes).
 PDF statistics:
  653 PDF objects out of 1000 (max. 8388607)
  528 compressed objects within 6 object streams
